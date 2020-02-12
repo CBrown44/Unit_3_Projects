@@ -48,5 +48,3 @@ cartHTML += "</table>";
 
 /* Write the HTML code into the shopping cart table */
 document.getElementById("cart").innerHTML = cartHTML;
-
-var input = document.getElementById("input");
